@@ -1,15 +1,17 @@
 # jemdoc: menu{MENU}{index.html}
-= Image Processing Algorithm Lab. @ EE, Korea University 
+= Laboratory of Transcription and Epigenetics (LTE) @ Kyung Hee University 
 
 ~~~
 {}{img_left}{ipa_thumbnail2.png}{alt text}{350px}{px}
 
 경희대 전사 및 후성유전학 연구실에 오신것을 환영합니다.\n
-We are a research group developing neural networks for image processing.\n
-IPA was founded 01SEP2023 at School of Electrical Engineering, Korea University.\n
-#IPL was founded 16FEB2021 at Dept. of Electrical Engineering and Computer Science, DGIST.\n
+We are investigating the molecular mechanisms of epigenetic regulation of transcription.\n
+We are interested in the following questions.\n
+- 1) How do cells acquire their unique identity and function?\n
+- 2) How do abnormal cells arise from normal cells?\n
+
 \n
-Keywords : deep learning, AI, neural networks, signal/image processing, inverse problem
+Keywords : Epigenetics, Transcription, Genomics, Single-molecule imaging, Cancer Biology, Drug discovery
 ~~~
 
 
